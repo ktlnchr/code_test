@@ -73,7 +73,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "-d",
         "--date",
-        help="as of date in YYYY-MM-DD format",
+        help="as of date in YYYY-mm-dd format. Default date is today.",
         default=DEFAULT_DATE,
     )
 
