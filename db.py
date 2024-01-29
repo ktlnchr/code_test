@@ -4,7 +4,7 @@ import sqlite3
 # names
 FUND_TABLE_NAME = "fund_nav"
 FUND_TABLE_NAME_DAILY = "fund_nav_daily"
-DATABASE_URI = "db_fles/funds.db"
+DATABASE_URI = "db_files/funds.db"
 
 
 # requests
